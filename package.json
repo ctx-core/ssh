@@ -2,8 +2,7 @@
 	"name": "@ctx-core/ssh",
 	"version": "3.0.9",
 	"description": "ctx-core ssh",
-	"main": "lib.js",
-	"module": "lib.js",
+	"type": "module",
 	"scripts": {},
 	"repository": {
 		"type": "git",
