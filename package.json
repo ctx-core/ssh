@@ -2,7 +2,9 @@
 	"name": "@ctx-core/ssh",
 	"version": "3.0.14",
 	"description": "ctx-core ssh",
-	"scripts": {},
+	"scripts": {
+		"exec": "$@"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/ssh/issues"
