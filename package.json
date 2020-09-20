@@ -1,29 +1,29 @@
 {
-  "name": "@ctx-core/ssh",
-  "version": "3.0.16",
-  "description": "ctx-core ssh",
-  "keywords": [
-    "ctx-core",
-    "ssh"
-  ],
-  "homepage": "https://github.com/ctx-core/ssh#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/ssh/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/ssh/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "scripts": {
-    "build": "npm run compile",
-    "exec": "$@"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/ssh",
+	"version": "3.0.16",
+	"description": "ctx-core ssh",
+	"keywords": [
+		"ctx-core",
+		"ssh"
+	],
+	"homepage": "https://github.com/ctx-core/ssh#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/ssh/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/ssh/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"scripts": {
+		"build": "npm run compile",
+		"exec": "$@"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
