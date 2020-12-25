@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.0.20
+
+### Patch Changes
+
+- - .rush
+
 ## 3.0.19
 
 ### Patch Changes
