@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.0.24
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.23
 
 ### Patch Changes
