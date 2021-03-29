@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.0.26
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 3.0.25
 
 ### Patch Changes
