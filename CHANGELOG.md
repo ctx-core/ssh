@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.0.29
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.28
 
 ### Patch Changes
