@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.1.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 3.1.0
 
 ### Minor Changes
