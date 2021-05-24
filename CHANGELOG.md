@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 3.0.29
 
 ### Patch Changes
