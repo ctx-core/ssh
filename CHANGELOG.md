@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.1.4
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 3.1.3
 
 ### Patch Changes
