@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.1.5
+
+### Patch Changes
+
+- version bump: run build
+
 ## 3.1.4
 
 ### Patch Changes
