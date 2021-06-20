@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 3.1.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 3.1.7
 
 ### Patch Changes
