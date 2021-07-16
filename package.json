@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ssh",
-	"version": "4.0.3",
+	"version": "4.0.4",
 	"description": "ctx-core ssh",
 	"keywords": [
 		"ctx-core",
@@ -26,5 +26,9 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"dependencies": {
+		"esm": "^3.2.25"
+	},
+	"type": "module"
 }
