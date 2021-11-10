@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.8
+
+### Patch Changes
+
+- compile using swc
+
 ## 4.0.7
 
 ### Patch Changes
