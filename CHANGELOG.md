@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.9
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+
 ## 4.0.8
 
 ### Patch Changes
