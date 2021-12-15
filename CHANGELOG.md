@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.10
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 4.0.9
 
 ### Patch Changes
