@@ -33,5 +33,5 @@
 		"cache": "~/.npm"
 	},
 	"type": "module",
-	"svelte": "./dist/index.js"
+	"svelte": "./lib/index.js"
 }
