@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.14
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 4.0.13
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/ssh",
-	"version": "4.0.13",
+	"version": "4.0.14",
 	"description": "ctx-core ssh",
 	"keywords": [
 		"ctx-core",
@@ -33,5 +33,6 @@
 		"cache": "~/.npm"
 	},
 	"type": "module",
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
