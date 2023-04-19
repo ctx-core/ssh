@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.19
+
+### Patch Changes
+
+- rimraf: ^4.1.2 -> ^5.0.0
+
 ## 4.0.18
 
 ### Patch Changes
