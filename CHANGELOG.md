@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.0.40
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+
 ## 4.0.39
 
 ### Patch Changes
