@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 4.1.2
 
 ### Patch Changes
