@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 4.1.1
 
 ### Patch Changes
