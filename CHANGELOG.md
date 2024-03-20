@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.1.11
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 4.1.10
 
 ### Patch Changes
