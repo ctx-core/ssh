@@ -1,5 +1,11 @@
 # @ctx-core/ssh
 
+## 4.1.13
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 4.1.12
 
 ### Patch Changes
